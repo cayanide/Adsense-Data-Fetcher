@@ -13,7 +13,7 @@ A Python tool that automates fetching Google AdSense reports from multiple accou
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/cayanide/Adsense-Data-Fetcher.git
    cd adsense-data-fetcher
    ```
 
